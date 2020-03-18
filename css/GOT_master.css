@@ -125,6 +125,11 @@ main {
 	padding-top: 20px;
 }
 
+.vid-controls span {
+  color: white;
+  font-size: 2em;
+  cursor: pointer;
+}
 
 video {
 	width: 50%;
@@ -133,4 +138,12 @@ video {
 	margin-left: auto;
 	margin-right: auto;
 	border: thin solid #949393;
+}
+
+.house-info {
+  font-size: 1.5em;
+  color: white;
+  line-height: 1.5;
+  width: 75%;
+  margin: 1.5em auto 0;
 }
